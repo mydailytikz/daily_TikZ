@@ -1,0 +1,58 @@
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%Shape: Path Data [id:dp09541607203233737] 
+\draw  [draw opacity=0][fill={rgb, 255:red, 155; green, 155; blue, 155 }  ,fill opacity=0.28 ] (317.41,94.9) .. controls (317.41,94.91) and (317.42,94.92) .. (317.42,94.93) .. controls (321.63,86.97) and (334.78,88.61) .. (336.99,99.21) .. controls (337.5,97.83) and (338.08,96.4) .. (338.71,94.9) .. controls (361.37,41.6) and (458.34,15.39) .. (465.59,29.85) .. controls (472.84,44.31) and (455.97,76.3) .. (453.81,93.1) .. controls (451.65,109.89) and (435.59,111.49) .. (403.96,119.3) .. controls (402.61,119.63) and (401.2,119.99) .. (399.77,120.37) .. controls (403.57,121.95) and (406.87,123.46) .. (409.4,124.72) .. controls (427.53,133.75) and (442.3,169.53) .. (424.18,196.64) .. controls (422.75,198.76) and (421.25,200.66) .. (419.67,202.35) .. controls (428.4,218.87) and (452.61,228.17) .. (446.56,234.95) .. controls (440.42,241.84) and (427.11,231.2) .. (409.95,209.64) .. controls (392.22,218.27) and (370.13,207.16) .. (356.84,183.45) .. controls (340.53,154.36) and (343.73,152) .. (339.5,127.3) .. controls (336.14,125.28) and (333.99,122.02) .. (333.56,117.11) .. controls (326.94,142.3) and (340.77,161.76) .. (327.35,161.76) .. controls (314.12,161.76) and (330.39,145.12) .. (322.18,119.46) .. controls (321.36,123.09) and (319.41,125.62) .. (316.62,127.3) .. controls (312.41,152) and (315.59,154.36) .. (299.34,183.45) .. controls (286.09,207.16) and (264.06,218.27) .. (246.39,209.64) .. controls (229.29,231.2) and (216.02,241.84) .. (209.89,234.95) .. controls (203.87,228.17) and (228,218.87) .. (236.7,202.35) .. controls (235.13,200.66) and (233.63,198.76) .. (232.21,196.64) .. controls (214.14,169.53) and (228.87,133.75) .. (246.94,124.72) .. controls (249.46,123.46) and (252.75,121.95) .. (256.54,120.37) .. controls (255.11,119.99) and (253.71,119.63) .. (252.36,119.3) .. controls (220.83,111.49) and (204.82,109.89) .. (202.66,93.1) .. controls (200.51,76.3) and (183.69,44.31) .. (190.92,29.85) .. controls (198.15,15.39) and (294.82,41.6) .. (317.41,94.9) -- cycle ;
+%Curve Lines [id:da6655137070655495] 
+\draw    (218.66,24.07) .. controls (249.65,25.33) and (291.21,51.53) .. (306.57,71.41) ;
+%Curve Lines [id:da1926642364845501] 
+\draw    (440.29,22.62) .. controls (401.44,29.85) and (358.07,56.05) .. (342.71,76.83) ;
+%Curve Lines [id:da966971542636091] 
+\draw    (183.69,34.37) .. controls (182.79,47.92) and (191.82,74.12) .. (198.15,91.29) ;
+%Curve Lines [id:da5990155429804112] 
+\draw    (473.72,35.27) .. controls (472.81,48.82) and (466.49,77.74) .. (458.36,92.19) ;
+%Straight Lines [id:da10212422609058747] 
+\draw    (209.62,110.8) -- (229.77,119.3) ;
+%Straight Lines [id:da5838292341457771] 
+\draw    (426.46,118.94) -- (444.8,111.17) ;
+%Straight Lines [id:da386777948204889] 
+\draw    (327.73,98.79) -- (327.73,137.37) ;
+%Straight Lines [id:da3673370237995415] 
+\draw    (315.6,98.52) -- (272.23,112.07) ;
+%Straight Lines [id:da2861371061696134] 
+\draw    (384.27,112.07) -- (340.9,99.42) ;
+%Straight Lines [id:da7445798168806022] 
+\draw    (228.87,221.39) -- (218.02,231.33) ;
+%Straight Lines [id:da8138417613536162] 
+\draw    (437.58,230.43) -- (428.54,222.3) ;
+%Curve Lines [id:da6947135139983105] 
+\draw    (228.87,133.75) .. controls (215.31,156.34) and (218.02,176.22) .. (224.35,193.39) ;
+%Curve Lines [id:da774215436136519] 
+\draw    (424.02,130.14) .. controls (438.48,144.6) and (442.09,179.83) .. (433.06,197) ;
+%Curve Lines [id:da9910665601616298] 
+\draw    (314.7,166.28) .. controls (310.18,178.03) and (287.59,214.17) .. (273.14,214.17) ;
+%Curve Lines [id:da8292467265107015] 
+\draw    (343.61,164.47) .. controls (345.42,177.12) and (362.59,206.94) .. (386.08,215.07) ;
+% Text Node
+\draw (174.36,17.47) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$B\cap C$};
+% Text Node
+\draw (195.44,96.98) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$B$};
+% Text Node
+\draw (229.22,115.95) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$B( A\cap D)$};
+% Text Node
+\draw (210.34,202.69) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$B( A\cap C)$};
+% Text Node
+\draw (203.53,230.7) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$A$};
+% Text Node
+\draw (305.22,143.06) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$A\cap C$};
+% Text Node
+\draw (277.13,78.91) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$( B\cap C)( A\cap D)$};
+% Text Node
+\draw (443.41,15.66) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$A\cap D$};
+% Text Node
+\draw (446.57,98.78) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$D$};
+% Text Node
+\draw (363.89,115.05) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$( B\cap C) D$};
+% Text Node
+\draw (388.19,205.4) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$( A\cap C) D$};
+% Text Node
+\draw (438.48,227.99) node [anchor=north west][inner sep=0.75pt]  [font=\small]  {$C$};
+\end{tikzpicture}
